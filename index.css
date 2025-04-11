@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(0, 0, 0);
+    color:white;
+    text-align: center;
+}
+header{
+        background: #333333;
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+      }
+
+      .carousel {
+        position:center;
+        width: 100%;
+        max-width: 900px;
+        margin: 5rem auto;
+        overflow: hidden;
+        border-radius: 50px;
+        box-shadow: 6px 6px 50px rgba(156, 4, 16, 0.986);}
+    
+h1{
+font: size 1em;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+letter-spacing: 5px;
+word-spacing: 12px;
+text-transform:uppercase;
+text-align: center;
+}
+nav ul{
+    list-style: none;
+    padding: 0px;
+    text-transform: uppercase;
+    word-spacing: 6px;
+}
+nav ul li{
+    display:inline;
+    margin: 90px;
+    text-align: center;
+}
+nav ul li a{
+    color: rgb(243, 28, 28);
+    text-decoration:none;
+    font-weight:900 ;
+}
+h2{
+    text-align: left;
+    color: rgb(27, 27, 27);
+    display: inline;
+    margin: 3px
+}
+footer{
+    background: #333333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+.texto-de-presentacion{
+    background: #363636;
+    color:white;
+    text-align: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin:auto;
+    max-width: 600px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px rgba(156, 4, 16, 0.986);
+    P {text-align: center;}
+}
+
+
+    
+
+
