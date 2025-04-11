@@ -74,9 +74,9 @@ footer{
    
 .bloques-de-texto{
     display: flex;
-    justify-content: center; /* centra los bloques en el contenedor */
-    gap: 60px; /* espacio entre bloques */
-    flex-wrap: wrap; /* permite que se acomoden en pantallas chicas */
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
     margin: 30px auto;
 }
     
