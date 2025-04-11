@@ -58,20 +58,27 @@ footer{
     padding: 10px;
     margin-top: 20px;
 }
-.texto-de-presentacion{
+.texto{
     background: #363636;
     color:white;
     text-align: center;
-    border: 2px solid #ccc;
+    border: 0px solid  #363636;
     padding: 20px;
-    margin:auto;
     max-width: 600px;
     border-radius: 5px;
     box-shadow: 4px 4px 10px rgba(156, 4, 16, 0.986);
+  
     P {text-align: center;}
 }
 
-
+   
+.bloques-de-texto{
+    display: flex;
+    justify-content: center; /* centra los bloques en el contenedor */
+    gap: 60px; /* espacio entre bloques */
+    flex-wrap: wrap; /* permite que se acomoden en pantallas chicas */
+    margin: 30px auto;
+}
     
 
 
